@@ -4,6 +4,7 @@
 - 💬 Ask me about CNNs, Active Learning and PyTorch
 - 🏠 Check out my [website](https://svdesai.github.io)
 - 📫 Reach me at: [email](mailto:saivikas3@gmail.com)
+- 🗎 View my resume: [PDF](https://svdesai.github.io/files/vikas_desai_cv.pdf)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sai-vikas-desai/)](https://www.linkedin.com/in/sai-vikas-desai/) 
 [![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://www.twitter.com/end_duality_gap)](https://www.twitter.com/end_duality_gap)
