@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 Currently working at Qualcomm as a Senior ML Engineer.
+- 🔭 Currently working at ServiceNow as a Senior ML Engineer. Previous Exp: Qualcomm
 - 🎓 Masters in Computer Science from Indian Institute of Technology, Hyderabad
-- 💬 Ask me about CNNs, Active Learning, PyTorch, DevOps, Azure
+- 💬 Ask me about Transformers, Multimodal Retrieval, RAG, Distributed Systems, Computer Vision
 - 🏠 Check out my [website](https://svdesai.github.io)
 - 📫 Reach me at: [email](mailto:saivikas3@gmail.com)
 - 🗎 View my resume: [PDF](https://svdesai.github.io/files/vikas_desai_cv.pdf)
