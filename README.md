@@ -13,5 +13,6 @@
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-676767?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=F7QgxfAAAAAJ&amp;hl=en)](https://scholar.google.com/citations?user=F7QgxfAAAAAJ&amp;hl=en)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-59C3B5?style=flat&logo=researchgate&logoColor=white&link=https://www.researchgate.net/profile/Sai-Vikas-Desai)](https://www.researchgate.net/profile/Sai-Vikas-Desai)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=svdesai&show_icons=true&count_private=true&theme=algolia&hide_rank=true&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svdesai&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=5)
+
+![Vikas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
